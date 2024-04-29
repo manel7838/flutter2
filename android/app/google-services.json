@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123546725664",
+    "project_id": "mypfeproject-22160",
+    "storage_bucket": "mypfeproject-22160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123546725664:android:3755fcc839369b20b5bb45",
+        "android_client_info": {
+          "package_name": "com.example.pfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSJg5RiFZrhVwikuyPFQBZkqFcPccKVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
